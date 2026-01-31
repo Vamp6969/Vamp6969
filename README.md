@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Tushar (aka Vamp_) 👋</h1>
-  <p><strong>Systems Engineer | Bare-Metal Architect | Founder @ [Witchly.host](https://witchly.host)</strong></p>
+  <p><strong>Systems Engineer | Bare-Metal Architect | Founder @ <a href="https://witchly.host">Witchly.host</a></strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Age-19-violet?style=flat-square" alt="Age" />
@@ -51,7 +51,7 @@ I am a systems engineer specialized in high-performance, low-latency infrastruct
 *(Stats refresh dynamically)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamp6969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vamp6969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamp6969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
@@ -72,7 +72,7 @@ I am a systems engineer specialized in high-performance, low-latency infrastruct
 ### 📫 Get In Touch
 - **Portfolio:** [tushar-a.dev](https://tushar-a.dev)
 - **LinkedIn:** [Tushar A.](https://www.linkedin.com/in/tushar-a-607371315)
-- **Email:** vamp@witchly.host
+- **Email:** tushar@tushar-a.dev
 
 <p align="center">
   <em>"Where mystical performance meets elite engineering."</em>
