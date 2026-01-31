@@ -51,8 +51,8 @@ I am a systems engineer specialized in high-performance, low-latency infrastruct
 *(Stats refresh dynamically)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamp6969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamp6969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vamp6969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamp6969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
