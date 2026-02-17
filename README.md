@@ -49,7 +49,6 @@ I am a systems engineer specialized in high-performance, low-latency infrastruct
 ---
 
 ### 📊 Performance Metrics
-*(Stats refresh dynamically)*
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vamp6969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tushar GitHub Stats" height="180" />
