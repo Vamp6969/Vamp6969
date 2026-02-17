@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Tushar (aka Vamp_) 👋</h1>
-  <p><strong>Systems Engineer | Bare-Metal Architect | Founder @ <a href="https://witchly.host">Witchly.host</a></strong></p>
+  <p><strong>DevOps & Systems Engineer | Bare-Metal Architect | Founder @ <a href="https://witchly.host">Witchly.host</a></strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Age-19-violet?style=flat-square" alt="Age" />
-    <img src="https://img.shields.io/badge/Focus-Infrastructure-blue?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-DevOps Engineer-blue?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square" alt="Location" />
   </p>
 </div>
@@ -20,15 +20,16 @@ I am a systems engineer specialized in high-performance, low-latency infrastruct
 
 #### 🔮 **[Witchly.host](https://witchly.host)** — *Founder & Lead Engineer*
 *Premium Game Hosting with Zero Over-Allocation.*
-- Managing bare-metal infrastructure on Hetzner (i9 9900K, 128GB RAM).
+- Managing distributed bare-metal infrastructure on Hetzner (Intel i9, 128GB RAM).
 - Scaled to **10,000+ registered users** with 99.9% verified uptime.
-- Architected custom L3/L4 DDoS mitigation and hardware-level CPU pinning.
+- Architected custom L3/L4 DDoS mitigation and hardware-level CPU pinning for tenant isolation.
 
 #### 💜 **[VioletVault.in](https://violetvault.in)** — *Head of E-Commerce Operations*
 *D2C Beauty Brand Infrastructure.*
-- Architecting automation for supply chain logistics and inventory management.
-- Developed custom Shopify API integrations to streamline D2C operations.
-- Scaling digital infrastructure to handle high-traffic product launches.
+- Automating D2C operations using serverless functions and custom API middleware.
+- Developing custom Shopify API integrations to streamline inventory management and logistics.
+- Scaling digital infrastructure to sustain high-traffic product launches and rapid growth.
+
 
 ---
 
@@ -62,6 +63,7 @@ I am a systems engineer specialized in high-performance, low-latency infrastruct
 ---
 
 ### 📦 Open Source & Projects
+- 🛡️ **[Sentinel Server Manager](https://github.com/Vamp6969/sentinel-server-manager)** Modular Bash-based dashboard for Linux system monitoring and automated maintenance.
 - 🔮 **[Witchly Bot](https://github.com/Witchly/witchly-discord):** Advanced automation for game communities.
 - 🎨 **[Witchly Site](https://github.com/Witchly/witchly-site):** High-performance production landing page.
 - 🐍 **[Medusa](https://github.com/Vamp6969/medusa):** Lightweight client dashboard for hosting providers.
