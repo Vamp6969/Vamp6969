@@ -90,9 +90,10 @@ I ship real products — not tutorials, not abandoned side projects. My work liv
 ### 📫 Get In Touch
 
 - **Portfolio:** [tushar-a.dev](https://tushar-a.dev)
-- **LinkedIn:** [Tushar A.](https://www.linkedin.com/in/tushar-a-dev/)
+- **LinkedIn:** [Tushar A](https://www.linkedin.com/in/tushar-a-dev/)
+- **Discord:** [Vamp_](https://discord.com/users/844426168793825330)
 - **Email:** [tushar@tushar-a.dev](mailto:tushar@tushar-a.dev)
 
 <p align="center">
-  <em>Building in public · Bangalore · 2026</em>
+  <em>I build stuff.</em>
 </p>
