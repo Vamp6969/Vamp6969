@@ -19,7 +19,7 @@
 
 ### ⚡ Quick Summary
 
-I ship real products — not tutorials, not abandoned side projects. My work lives at the intersection of systems, backend, and AI. Currently juggling a game hosting platform launch, a docs SaaS, a VPN desktop client, and a road trip app. Somehow also a CS student.
+I ship real products — not tutorials, not abandoned side projects. My work lives at the intersection of systems, backend, and AI. Currently juggling a game hosting platform launch, a docs SaaS, a VPN desktop client, and a road trip app. Somehow also a first-year CS student.
 
 ---
 
@@ -81,17 +81,17 @@ I ship real products — not tutorials, not abandoned side projects. My work liv
 
 ### 📦 Open Source & Projects
 
+- 🧠 **[Auto-Examiner](https://github.com/Vamp6969/Auto-examiner):** Self-improving RL environment where an agent generates and solves coding challenges with escalating difficulty — Meta × Scaler OpenEnv Hackathon Phase 2 (top finalist, 31,000+ teams).
+- 🤖 **[Code Debug Env](https://github.com/Vamp6969/code_debug_env):** RL-based Python debugging environment — Meta × Scaler OpenEnv Hackathon Phase 1.
 - 🐍 **[Medusa](https://github.com/Vamp6969/medusa):** Lightweight client dashboard for hosting providers.
 - 🛡️ **[Sentinel Server Manager](https://github.com/Vamp6969/sentinel-server-manager):** Modular Bash dashboard for Linux system monitoring and automated maintenance.
-- 🤖 **[Code Debug Env](https://github.com/Vamp6969/code_debug_env):** Python code debugging environment — built for the Meta × Scaler OpenEnv Hackathon.
 
 ---
 
 ### 📫 Get In Touch
 
 - **Portfolio:** [tushar-a.dev](https://tushar-a.dev)
-- **LinkedIn:** [Tushar A](https://www.linkedin.com/in/tushar-a-dev/)
-- **Discord:** [Vamp_](https://discord.com/users/844426168793825330)
+- **LinkedIn:** [Tushar A.](https://www.linkedin.com/in/tushar-a-dev/)
 - **Email:** [tushar@tushar-a.dev](mailto:tushar@tushar-a.dev)
 
 <p align="center">
